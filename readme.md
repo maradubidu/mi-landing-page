@@ -1,5 +1,5 @@
-`#Proyecto Landing Page`
+#Proyecto Landing Page
 
-`##Pagina para aprender a usar bootstrap`
+##Pagina para aprender a usar bootstrap
 
 Esta página fue realizada usando bootstrap
